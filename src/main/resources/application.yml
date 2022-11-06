@@ -1,0 +1,14 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAVYSFARGK5XQOVXNU
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+    bucket:
+      name: netcracker-hackerearth
+
+server:
+  port: 5000
